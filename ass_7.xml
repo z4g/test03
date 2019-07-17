@@ -6,7 +6,7 @@
 <currency id="RUB" rate="1"/>
 </currencies>
 <categories>
-<category id="332" parentId="1552">Для детей</category>
+<category id="332">Для детей</category>
 </categories>
 <delivery-options>
 <option order-before="14" days="2" cost="1199"/>
