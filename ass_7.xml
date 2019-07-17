@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2018-09-04 21:19">
+<shop>
+<currencies>
+<currency id="RUB" rate="1"/>
+</currencies>
+<categories>
+<category id="332" parentId="1552">Для детей</category>
+</categories>
+<delivery-options>
+<option order-before="14" days="2" cost="1199"/>
+</delivery-options>
+<shipment-options>
+<option order-before="10" days="1" store-id="326"/>
+</shipment-options>
+<offers>
+<offer id="5133560" group_id="5133493" available="true" type="vendor.model">
+<url>http://babadu.ru/store/product/5133493/?option=5133560&utm_source=yamarket&utm_medium=yml&utm_campaign=main&utm_term=5133560</url>
+<price>1430</price>
+<oldprice>3242.00</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>332</categoryId>
+<market_category>Все товары / Детские товары / Игрушки и игровые комплексы</market_category>
+<picture>http://babadu.ru/upload/iblock/253/70.jpg</picture>
+<picture>http://babadu.ru/upload/iblock/4fd/69.jpg</picture>
+<picture>http://babadu.ru/upload/iblock/62f/68.jpg</picture>
+<picture>http://babadu.ru/upload/iblock/5bb/67.jpg</picture>
+<picture>http://babadu.ru/upload/iblock/411/66.jpg</picture>
+<picture>http://babadu.ru/upload/iblock/c9c/65.jpg</picture>
+<picture>http://babadu.ru/upload/iblock/b37/64.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<vat>6</vat>
+<typePrefix>Конструктор</typePrefix>
+<vendor>LEGO</vendor>
+<vendorCode>70904</vendorCode>
+<model>Batman Movie 70904 Атака Глиноликого</model>
+<description/>
+<sales_notes>Цена со скидкой действует до 1 декабря</sales_notes>
+<param name="Пол">Женский</param>
+<barcode>5702015870504</barcode>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
