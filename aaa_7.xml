@@ -15,7 +15,7 @@
 <option order-before="10" days="1" store-id="326"/>
 </shipment-options>
 <offers>
-<offer id="513356901" group_id="5133493" available="true" type="vendor.model">
+<offer id="64763" group_id="5133493" available="true" type="vendor.model">
 <url>https://shopkofe.ru/product_by_id/60323698</url>
 <price>1430.0</price>
 <oldprice>3242.0</oldprice>
