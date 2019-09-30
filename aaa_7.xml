@@ -43,6 +43,33 @@
 <barcode>5702015870504</barcode>
 <barcode>5702015870503</barcode>  
 </offer>
+<offer id="64763" group_id="5133493" available="true" type="vendor.model">
+<url>https://shopkofe.ru/product_by_id/60323698</url>
+<name>tdlakjsnflkjsanflksjdnflkjdsanffdaldskjnflskjnflskjnflksjdnflkjsnflkjndafljandslfjnsalfjnsalkfjnsalfkjnslfjnsafjnsalfasdfjnlkjdsndslkjnsddstdlakjsnflkjsanflksjdnflkjdsanffdaldskjnflskjnflskjnflksjdnflkjsnflkjndafljandslfjnsalfjnsalkfjnsalfkjnslfjnsafjnsalfasdfjnlkjdsndslkjnsddstdlakjsnflkjsanflksjdnflkjdsanffdaldskjnflskjnflskjnflksjdnflkjsnflkjndafljandslfjnsalfjnsalkfjnsalfkjnslfjnsafjnsalfasdfjnlkjdsndslkjnsddstdlakjsnflkjsanflksjdnflkjdsanffdaldskjnflskjnflskjnflksjdnflkjsnflkjndafljandslfjnsalfjnsalkfjnsalfkjnslfjnsafjnsalfasdfjnlkjdsndslkjnsddstdlakjsnflkjsanflksjdnflkjdsanffdaldskjnflskjnflskjnflksjdnflkjsnflkjndafljandslfjnsalfjnsalkfjnsalfkjnslfjnsafjnsalfasdfjnlkjdsndslkjnsddstdlakjsnflkjsanflksjdnflkjdsanffdaldskjnflskjnflskjnflksjdnflkjsnflkjndafljandslfjnsalfjnsalkfjnsalfkjnslfjnsafjnsalfasdfjnlkjdsndslkjnsddstdlakjsnflkjsanflksjdnflkjdsanffdaldskjnflskjnflskjnflksjdnflkjsnflkjndafljandslfjnsalfjnsalkfjnsalfkjnslfjnsafjnsalfasdfjnlkjdsndslkjnsddstdlakjsnflkjsanflksjdnflkjdsanffdaldskjnflskjnflskjnflksjdnflkjsnflkjndafljandslfjnsalfjnsalkfjnsalfkjnslfjnsafjnsalfasdfjnlkjdsndslkjnsdds</name>  
+<price>1430.0</price>
+<oldprice>3242.0</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>332</categoryId>
+<market_category>Все товары / Детские товары / Игрушки и игровые комплексы</market_category>
+<picture>https://static-eu.insales.ru/images/products/1/795/227115803/lavazza-crema-e-aroma-espresso-NEW.jpg</picture>
+<picture>https://static-eu.insales.ru/images/products/1/1738/138143434/lavazza-crema-e-aroma-new2.jpg</picture>
+<picture>https://static-eu.insales.ru/images/products/1/529/81388049/lavazza-crema-e-aroma.jpg</picture>
+<picture>http://babadu.ru/upload/iblock/5bb/67.jpg</picture>
+<picture>http://babadu.ru/upload/iblock/411/66.jpg</picture>
+<picture>http://babadu.ru/upload/iblock/c9c/65.jpg</picture>
+<picture>http://babadu.ru/upload/iblock/b37/64.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<vat>6</vat>
+<typePrefix>Конструктор</typePrefix>
+<vendor>LEGO</vendor>
+<vendorCode>70904</vendorCode>
+<model>Batman Movie 70904 Атака Глиноликого</model>
+<description/>
+<sales_notes>Цена со скидкой действует до 1 декабря</sales_notes>
+<param name="Пол">Женский</param>
+<barcode>5702015870504</barcode>
+</offer>
 </offers>
 </shop>
 </yml_catalog>
