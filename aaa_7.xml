@@ -2,9 +2,6 @@
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 <yml_catalog date="2018-09-04 21:19">
 <shop>
-<currencies>
-<currency id="RUB" rate="1"/>
-</currencies>
 <categories>
 <category id="332">Для детей</category>
 </categories>
@@ -20,7 +17,6 @@
 <name>test</name>  
 <price>1430.0</price>
 <oldprice>3242.0</oldprice>
-<currencyId>RUB</currencyId>
 <categoryId>332</categoryId>
 <market_category>Все товары / Детские товары / Игрушки и игровые комплексы</market_category>
 <picture>https://static-eu.insales.ru/images/products/1/795/227115803/lavazza-crema-e-aroma-espresso-NEW.jpg</picture>
@@ -47,7 +43,6 @@
 <name>test</name>  
 <price>1430.0</price>
 <oldprice>3242.0</oldprice>
-<currencyId>RUB</currencyId>
 <categoryId>332</categoryId>
 <market_category>Все товары / Детские товары / Игрушки и игровые комплексы</market_category>
 <picture>https://static-eu.insales.ru/images/products/1/795/227115803/lavazza-crema-e-aroma-espresso-NEW.jpg</picture>
@@ -72,7 +67,6 @@
 <offer id="80274458">
 <url>https://hoff.ru/catalog/spalnya/shkafy_dlya_spalni/shkafy_raspashnye/shkaf_uglovoy_kankun_id934/?articul=80274458</url>
 <price>8999.00</price>
-<currencyId>RUR</currencyId>
 <categoryId>706</categoryId>
 <picture>https://hoff.ru/upload/iblock/247/247c033eeffc7ba895d80a569abc1c8c.jpg</picture>
 <picture>https://hoff.ru/upload/iblock/498/49828c1dfd560d0ca82a173649e49e3c.jpg</picture>
