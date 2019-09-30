@@ -4,6 +4,8 @@
 <shop>
 <categories>
 <category id="332">Для детей</category>
+  <category id="706">Для хофф</category>
+  <category id="2454">Для хофф2</category>
 </categories>
 <delivery-options>
 <option order-before="14" days="2" cost="1199"/>
