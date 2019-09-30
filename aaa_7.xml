@@ -7,6 +7,8 @@
   <category id="706">Для хофф</category>
   <category id="2454">Для хофф2</category>
   <category id="99349">Для Ulmart</category>
+  <category id="98695">Для Ul2</category>
+  <category id="">для ul3</category>
 </categories>
 <delivery-options>
 <option order-before="14" days="2" cost="1199"/>
@@ -202,6 +204,95 @@
                 <param name="Высота">111.00</param>
                 <param name="Глубина">30.00</param>
                 <param name="Вес">140.00</param>
+            </offer>
+  <offer id="3731219" available="true">
+                <url>http://www.ulmart.ru/goods/3731219</url>
+                <name>Стиральная машина Bosch WAN 24140OE</name>
+                <price>45510</price>
+                <categoryId>83787</categoryId>
+                <picture>https://p.fast.ulmart.ru/p/ym/373/37312/3731219.jpg</picture>
+                 <vat>1</vat> 
+                 <vendor>Bosch</vendor> 
+                 <vendorCode>WAN 24140OE</vendorCode> 
+                 <description>Стиральная машина Bosch WAN 24140 OE позволяет одновременно загружать до 8 кг белья. После выбора и запуска цикла стирки индикаторы будут загораться один за другим, показывая последовательность выполнения программы. Начало выполнения программы может быть отложено. Бесконтактный мотор EcoSilence Drive обеспечивает тихую и эффективную работу стиральной машины. Функция VarioPerfect позволяет выбрать быструю или экономичную стирку при неизменном качестве отстирывания. Система ActiveWater экономит воду и электроэнергию в зависимости от загрузки благодаря умной системе контроля.</description> 
+                 <barcode>4242002899039</barcode>
+    <barcode>3165140600804</barcode>
+                <outlets>
+                    <outlet id="F100" instock="1"/>
+                </outlets>
+                 <param name="Модель">WAN 24140OE</param> 
+                <param name="Обороты отжима">1200</param>
+                <param name="Дисплей">Есть</param>
+                <param name="Тип устройства">Стиральная машина</param>
+                <param name="Тип загрузки">Фронтальная загрузка</param>
+                <param name="Цвет">Белый, цвет дверцы - серебристый</param>
+                <param name="Максимальная загрузка">8</param>
+                <param name="Класс стирки">А</param>
+                <param name="Класс отжима">B</param>
+                <param name="Класс энергопотребления">А</param>
+                <param name="Расход воды">55 л</param>
+                <param name="Энергопотребление">1.04</param>
+                <param name="Размер дверцы">46.00</param>
+                <param name="Угол открытия дверцы">180.00</param>
+                <param name="Тип управления">Электронное</param>
+                <param name="Индикаторы">Индикация этапов программы</param>
+                <param name="Индикаторы">Индикация времени до окончания программы</param>
+                <param name="Индикаторы">Индикация активированных функций</param>
+                <param name="Индикаторы">Индикатор блокировки дверцы</param>
+                <param name="Индикаторы">Индикация окончания программы</param>
+                <param name="Индикаторы">Индикация скорости отжима</param>
+                <param name="Индикаторы">Индикация температуры</param>
+                <param name="Установки">Выбор температуры</param>
+                <param name="Установки">Выбор скорости отжима</param>
+                <param name="Установки">Выбор режима</param>
+                <param name="Количество программ">15</param>
+                <param name="Перечень программ">Полоскание</param>
+                <param name="Перечень программ">Отжим + Слив</param>
+                <param name="Перечень программ">Детская</param>
+                <param name="Перечень программ">Шерсть</param>
+                <param name="Перечень программ">Хлопок</param>
+                <param name="Перечень программ">Синтетика</param>
+                <param name="Перечень программ">Джинсы</param>
+                <param name="Перечень программ">Спорт</param>
+                <param name="Перечень программ">Тонкое белье / Шелк</param>
+                <param name="Перечень программ">Пуховики</param>
+                <param name="Перечень программ">Рубашки / Блузы</param>
+                <param name="Перечень программ">Смешанная загрузка</param>
+                <param name="Перечень программ">Ночной цикл</param>
+                <param name="Перечень программ">Быстрая стирка, 60 мин</param>
+                <param name="Перечень программ">Супербыстрая  30’/15’</param>
+                <param name="Таймер отсрочки">Есть</param>
+                <param name="Дополнительные опции">Дополнительное полоскание</param>
+                <param name="Дополнительные опции">SpeedPerfect</param>
+                <param name="Дополнительные опции">EcoPerfect</param>
+                <param name="Блокировка от детей">Есть</param>
+                <param name="Защита от протечек">AquaStop</param>
+                <param name="Высота">85.00</param>
+                <param name="Ширина">60.00</param>
+                <param name="Глубина">59.00</param>
+            </offer>
+  <offer id="4499676" available="true">
+                <url>http://www.ulmart.ru/goods/4499676</url>
+                <name>Лампа ксеноновая CARLine D1S 6000K, 1 шт., D1S 6000K CLN5202</name>
+                <price>499</price>
+                <categoryId>98695</categoryId>
+                <picture>https://p.fast.ulmart.ru/p/ym/449/44996/4499676.jpg</picture>
+                 <vat>1</vat> 
+                 <vendor>Carline</vendor> 
+                 <vendorCode>CLN5202</vendorCode> 
+                 <description>Ксеноновая лампа CARLine D1S Crystal Blue Xenon HID для прожекторного типа фар, 6000K, предназначена для замены вышедших из строя штатных газоразрядных ламп головного света. Производитель предоставляет гарантию сроком на 1 год.</description> 
+                 <barcode>2220044996765</barcode> 
+                <outlets>
+                    <outlet id="F100" instock="1"/>
+                </outlets>
+                
+                <param name="Мощность">35 Вт</param>
+                <param name="Цветовая температура">6000К</param>
+                <param name="Тип">Лампа ксеноновая</param>
+                <param name="Цоколь">PK32d-2</param>
+                <param name="Особенности">Напряжение питания: 85 В. Мощность лампы: 35 Вт. Цветовая температура света: 6000 K. Цвет света фар: кристально-голубой. Вес: 71 г.</param>
+                <param name="Ширина">81.00</param>
+    <barcode>132384555666</barcode> 
             </offer>
 </offers>
 </shop>
