@@ -96,6 +96,80 @@
 <param name="Пол">Женский</param>
 <barcode>5702015870504</barcode>
 </offer>
+<offer id="80274458">
+<url>https://hoff.ru/catalog/spalnya/shkafy_dlya_spalni/shkafy_raspashnye/shkaf_uglovoy_kankun_id934/?articul=80274458</url>
+<price>8999.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>706</categoryId>
+<picture>https://hoff.ru/upload/iblock/247/247c033eeffc7ba895d80a569abc1c8c.jpg</picture>
+<picture>https://hoff.ru/upload/iblock/498/49828c1dfd560d0ca82a173649e49e3c.jpg</picture>
+<picture>https://hoff.ru/upload/iblock/a8e/a8ee0f7630cacce72ffc021b6bc74e05.jpg</picture>
+<picture>https://hoff.ru/upload/iblock/9e5/9e5631cc340175456bfc86c35e330768.jpg</picture>
+<store>true</store>
+<market_category>Все товары/Дом и дача/Мебель/Шкафы, комоды, полки</market_category>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<delivery-options><option order-before="17" days="2-4" cost="1599"/></delivery-options>
+<name>Шкаф угловой Hoff Канкун</name>
+<vendorCode>80274458</vendorCode>
+<vendor>Hoff</vendor>
+<description>Шкаф угловой Канкун - идеальный выбор для небольшой по габаритом квартиры. Такая конструкция мебели позволяет максимально рационально распределить свободное пространство и вместить максимум необходимых вещей. Внутри шкафа расположено два вместительных отсека. Сегмент с полками подходит для постельного белья и домашнего текстиля, четыре перегородки в верхней части дополнены большим отделением, куда легко поместиться, например, пылесос или габаритный контейнер с детскими игрушками. Одежду можно аккуратно развесить во второй половине шкафа, где предусмотрена специальная стационарная штанга под вешалки. Можно назвать такую мебель &amp;quot;2 в 1&amp;quot;, так как комбинация отсеков разного назначения при таких компактных размерах даёт отличную эргономичность. Шкаф изготовлен из ЛДСП - распространённого материала, пользующегося популярностью благодаря долговечности и доступной стоимости.</description>
+<country_of_origin>Россия</country_of_origin>
+<manufacturer_warranty>true</manufacturer_warranty>
+<param name="Коллекция"> Канкун</param>
+<param name=" "> </param>
+<param name="Производитель">Россия</param>
+<param name="Гарантия">24 мес.</param>
+<param name="Срок службы">Год: 10</param>
+<param name="Размер (ШхВхГ)">89х228х89(58) см</param>
+<param name="Материал">ЛДСП</param>
+<param name="Цвет">венге</param>
+<param name="weight1">66 кг.</param>
+<param name="weight2">32 кг.</param>
+<param name="dimensions1">61.5/233/9 ГхШхВ</param>
+<param name="dimensions2">92/92/6.5 ГхШхВ</param>
+<barcode>555666777</barcode>  
+<model> Канкун</model>
+</offer>
+<offer id="80054347">
+<url>https://hoff.ru/catalog/detskaya/detskie_krovati/krovati_cherdaki/krovat-cherdak_indigo_id1186/?articul=80054347</url>
+<price>18499.00</price>
+<oldprice>20999.00</oldprice>
+<currencyId>RUR</currencyId>
+<categoryId>2454</categoryId>
+<picture>https://hoff.ru/upload/iblock/a4e/a4ecaa1ecde3aca32c34894b85d427ac.jpg</picture>
+<store>true</store>
+<market_category></market_category>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<delivery-options><option order-before="17" days="2-4" cost="1599"/></delivery-options>
+<name>Кровать-чердак Hoff Индиго</name>
+<vendorCode>80054347</vendorCode>
+<vendor>Hoff</vendor>
+<description>Кровать-чердак Индиго - нетривиальное и практичное решение для детской комнаты. Ребенку понравится возможность спать на «втором этаже», родителям - экономия пространства. Нейтральная цветовая гамма прекрасно освежит интерьер. Эту кровать-чердак можно дополнить другими элементами из серии Индиго, другой мебелью или оставить свободную игровую зону. Основание под матрас, лестница и ограничитель входят в комплект. Конструкция выполнена из высококачественных ламинированных ДСП-плит и абсолютно надежна.</description>
+<country_of_origin>Россия</country_of_origin>
+<manufacturer_warranty>true</manufacturer_warranty>
+<param name="Коллекция">Индиго</param>
+<param name="/">/</param>
+<param name="?">?</param>
+<param name="Производитель">Россия</param>
+<param name="Гарантия">12 мес.</param>
+<param name="Срок службы">Год: 5</param>
+<param name="Материал">ЛДСП</param>
+<param name="Цвет">ясень коимбра/навигатор</param>
+<param name="В комплекте">основание</param>
+<param name="Максимальная нагрузка">100 кг</param>
+<param name="weight1">23.55 кг.</param>
+<param name="weight2">40.55 кг.</param>
+<param name="weight3">29.95 кг.</param>
+<param name="weight4">13 кг.</param>
+<param name="dimensions1">206/40/9 ГхШхВ</param>
+<param name="dimensions2">213/86/4.5 ГхШхВ</param>
+<param name="dimensions3">149/45/10 ГхШхВ</param>
+<param name="dimensions4">185/52/12 ГхШхВ</param>
+<barcode>555666777</barcode>
+<model>Индиго</model>
+</offer>
 </offers>
 </shop>
 </yml_catalog>
