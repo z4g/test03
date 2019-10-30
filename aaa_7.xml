@@ -4,14 +4,9 @@
 <shop>
 <categories>
 <category id="332">Для детей</category>
-  <category id="706">Для хофф</category>
-  <category id="2454">Для хофф2</category>
-  <category id="99349">Для Ulmart</category>
-  <category id="98695">Для Ul2</category>
-  <category id="">для ul3</category>
 </categories>
 <offers>
-<offer id="64763" group_id="5133493" available="true" type="vendor.model">
+<offer id="64763" available="true" type="vendor.model">
 <url>https://shopkofe.ru/product_by_id/60323698</url>
 <name>test</name>  
 <price>1430.0</price>
