@@ -10,12 +10,6 @@
   <category id="98695">Для Ul2</category>
   <category id="">для ul3</category>
 </categories>
-<delivery-options>
-<option order-before="14" days="2" cost="1199"/>
-</delivery-options>
-<shipment-options>
-<option order-before="10" days="1" store-id="326"/>
-</shipment-options>
 <offers>
 <offer id="64763" group_id="5133493" available="true" type="vendor.model">
 <url>https://shopkofe.ru/product_by_id/60323698</url>
