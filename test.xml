@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+            <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+            <yml_catalog date="2019-12-23 10:44">
+            <shop>
+            <name></name>
+            <company>company name</company>
+            <currencies>
+            <currency rate="1" id="RUR"/>
+            </currencies>
+            <categories>
+            <category id="2469">Кухня</category>
+                </categories>
+<offers>
+<offer id="80056537">
+<url>https://hoff.ru/catalog/kuhnya/kuhonnye_garnitury/planiruemie/kukhonnyy_garnitur_paola_id534/?articul=80056537</url>
+<price>52454.00</price>
+<oldprice>80699.00</oldprice>
+<currencyId>RUR</currencyId>
+<categoryId>2496</categoryId>
+<store>true</store>
+<market_category></market_category>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<delivery-options><option order-before="17" days="" cost="1599"/></delivery-options>
+<name>Hoff</name>
+<vendorCode>80056537</vendorCode>
+<vendor>Hoff</vendor>
+<description>Описание товара</description>
+<country_of_origin>Россия</country_of_origin>
+<manufacturer_warranty>true</manufacturer_warranty>
+<param name="Коллекция">Паола</param>
+<param name="Производитель">Россия</param>
+<param name="Гарантия">24 мес.</param>
+<param name="Срок службы">Год: 10</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
