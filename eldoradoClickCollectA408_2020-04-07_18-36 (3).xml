@@ -1113,18 +1113,6 @@
             </merchant>
         </merchants>
         <offers>
-            <offer id="71085829">
-                <url>https://www.eldorado.ru/cat/detail/71085829/</url>
-                <currencyId>RUB</currencyId>
-                <unitId>pc</unitId>
-                <weight>0.27</weight>
-                <categoryId>848700</categoryId>
-                <picture>https://img.mvideo.ru/Pdb/20038622b.jpg</picture>
-                <name>Эпилятор Philips HP6422/01</name>
-                <residues>
-                    <residue amount="7" merchantId="A134" price="1590.0"/>
-                </residues>
-            </offer>
             <offer id="71377869">
                 <url>https://www.eldorado.ru/cat/detail/71377869/</url>
                 <currencyId>RUB</currencyId>
