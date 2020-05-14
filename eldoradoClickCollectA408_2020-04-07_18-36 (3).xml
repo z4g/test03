@@ -1,0 +1,2436 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2020-04-07 13:08">
+    <shop>
+        <name>Эльдорадо</name>
+        <company>Эльдорадо - интернет-магазин электроники, цифровой и бытовой техники</company>
+        <url>https://www.eldorado.ru</url>
+        <currencies>
+            <currency id="RUB" rate="1"/>
+        </currencies>
+        <units>
+            <unit id="pc"/>
+        </units>
+        <categories>
+            <category id="847558">Товары для ухода за одеждой</category>
+            <category id="847559">Мелкая кухонная техника</category>
+            <category id="847560">Встраиваемая техника</category>
+            <category id="847562">Автоакустика</category>
+            <category id="847568">Товары для красоты</category>
+            <category id="847577">Приготовление кофе</category>
+            <category id="847581">Крупная кухонная техника</category>
+            <category id="847582">Товары для здоровья</category>
+            <category id="847602">Стиральные и сушильные машины</category>
+            <category id="847603">Пылесосы и аксессуары</category>
+            <category id="847606">Холодильники и морозильники</category>
+            <category id="847609">PlayStation</category>
+            <category id="847613">Товары для укладки волос</category>
+            <category id="847617">Товары для бритья и стрижки</category>
+            <category id="848262" parentId="847558">Утюги</category>
+            <category id="848113" parentId="847559">Электрочайники</category>
+            <category id="848114" parentId="847559">Миксеры и блендеры</category>
+            <category id="848119" parentId="847559">Мясорубки</category>
+            <category id="848123" parentId="847559">Микроволновые печи</category>
+            <category id="848041" parentId="847560">Встраиваемые духовые шкафы</category>
+            <category id="847930" parentId="847562">Усилители</category>
+            <category id="848237" parentId="847568">Эпиляторы и аксессуары</category>
+            <category id="848241" parentId="847568">Фотоэпиляторы</category>
+            <category id="848183" parentId="847577">Аксессуары для кофемашин</category>
+            <category id="848184" parentId="847577">Кофе</category>
+            <category id="848185" parentId="847577">Кофеварки</category>
+            <category id="848186" parentId="847577">Кофемашины</category>
+            <category id="848107" parentId="847581">Плиты газовые и электрические</category>
+            <category id="848229" parentId="847582">Массажеры</category>
+            <category id="848231" parentId="847582">Зубные щетки</category>
+            <category id="848218" parentId="847602">Стиральные машины</category>
+            <category id="848188" parentId="847603">Пылесосы</category>
+            <category id="848286" parentId="847606">Холодильники и морозильные камеры</category>
+            <category id="847920" parentId="847609">PS4-игры</category>
+            <category id="848242" parentId="847613">Фены и фен-щетки</category>
+            <category id="848243" parentId="847613">Электрощипцы</category>
+            <category id="848248" parentId="847613">Выпрямители волос</category>
+            <category id="848223" parentId="847617">Электробритвы</category>
+            <category id="848224" parentId="847617">Триммеры</category>
+            <category id="848225" parentId="847617">Машинки для стрижки волос</category>
+            <category id="849628" parentId="847920">Игры для PlayStation 4 (PS4)</category>
+            <category id="849913" parentId="847930">Автомобильные усилители (4 канала)</category>
+            <category id="849738" parentId="848041">Встраиваемый электрический духовой шкаф</category>
+            <category id="849305" parentId="848107">Настольные плиты</category>
+            <category id="848717" parentId="848113">Электрические чайники</category>
+            <category id="849215" parentId="848114">Погружные блендеры</category>
+            <category id="849418" parentId="848114">Миксеры</category>
+            <category id="848688" parentId="848119">Электромясорубки</category>
+            <category id="849411" parentId="848123">Микроволновые печи с грилем</category>
+            <category id="849413" parentId="848123">Микроволновые печи соло</category>
+            <category id="848730" parentId="848183">Чистящие средства для кофемашин</category>
+            <category id="849524" parentId="848184">Кофе в зернах</category>
+            <category id="849525" parentId="848184">Кофе в капсулах</category>
+            <category id="849528" parentId="848185">Кофеварки капельного типа</category>
+            <category id="849888" parentId="848186">Автоматические кофемашины</category>
+            <category id="848660" parentId="848188">Aккумуляторные пылесосы</category>
+            <category id="849097" parentId="848188">Пылесосы с контейнером для пыли</category>
+            <category id="849098" parentId="848188">Пылесосы с пылесборником</category>
+            <category id="849344" parentId="848188">Моющие пылесосы</category>
+            <category id="848897" parentId="848218">Узкие стиральные машины</category>
+            <category id="849480" parentId="848218">Компактные стиральные машины</category>
+            <category id="848708" parentId="848223">Электрические бритвы</category>
+            <category id="849047" parentId="848223">Сетки и режущие блоки для электробритв</category>
+            <category id="849974" parentId="848223">Аксессуары для электробритв</category>
+            <category id="848881" parentId="848224">Триммеры</category>
+            <category id="849398" parentId="848225">Машинки для стрижки</category>
+            <category id="849393" parentId="848229">Массажные ванночки для ног</category>
+            <category id="848712" parentId="848231">Электрические зубные щетки</category>
+            <category id="849301" parentId="848231">Насадки для электрических зубных щеток</category>
+            <category id="848700" parentId="848237">Эпиляторы</category>
+            <category id="849177" parentId="848241">Портативные фотоэпиляторы</category>
+            <category id="848874" parentId="848242">Фен-щетки</category>
+            <category id="848875" parentId="848242">Фены</category>
+            <category id="848699" parentId="848243">Электрощипцы и плойки</category>
+            <category id="849362" parentId="848243">Мультистайлеры</category>
+            <category id="849740" parentId="848248">Выпрямители волос</category>
+            <category id="849275" parentId="848262">Парогенераторы</category>
+            <category id="848835" parentId="848286">Холодильники с нижней морозильной камерой</category>
+        </categories>
+        <merchants>
+            <merchant id="A134">
+                <address>г.Королев, пр-т Космонавтов д.7 Г</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A165">
+                <address>г.Москва, ул.9 Парковая, д.62-64</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A201">
+                <address>г.Люберцы, Октябрьский пр. д.146</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A215">
+                <address>г.Москва, ул.Пришвина, д.22</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A217">
+                <address>г.Подольск, ул.Большая Серпуховская, д.45</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A218">
+                <address>г.Москва, ул.Профсоюзная, д.61</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A238">
+                <address>г.Москва, ул.Профсоюзная, д.56</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A245">
+                <address>г.Москва, ул.Бирюлевская, д.51 к.1</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A253">
+                <address>г.Мытищи, ул.Щербакова д.2/1</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A264">
+                <address>г.Москва, ул.Люблинская, д.153</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A277">
+                <address>г.Москва, Открытое ш., д.9</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A280">
+                <address>г.Серпухов, ул.Ворошилова, д.214</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A292">
+                <address>г.Химки, ул.Бутакова д.4</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A326">
+                <address>г.Москва, Боровское ш., д.51 стр 1</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A366">
+                <address>г.Москва, Рязанский пр-т, д.2</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A383">
+                <address>г.Москва, Лермонтовский пр-т, д.19</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A386">
+                <address>г.Балашиха, ш. Энтузиастов, д.66</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A407">
+                <address>г.Сергиев Посад, ул.Кооперативная, д.3</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A439">
+                <address>г.Орехово-Зуево, ул.Якова Флиера, д.4</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A467">
+                <address>г.Москва, Дмитровское ш., д.163</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A468">
+                <address>г.Зеленоград, 15 мкр-н проезд 1550 кор.15</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A484">
+                <address>г.Коломна, ул.Октябрьской революции, д.362</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A489">
+                <address>г.Москва, Ореховый б-р, д.22</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A523">
+                <address>г.Москва, ул.Тушинская, д.17</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A525">
+                <address>г.Одинцово, ул.Маршала Неделина д.6</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A539">
+                <address>г.Люберцы, ул.Побратимов д.13</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A543">
+                <address>г.Москва, ул.Профсоюзная, д.129а</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A545">
+                <address>г.Реутов, ул.Октября д.10</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A564">
+                <address>г.Реутов, 2-ой км МКАД д.2</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A569">
+                <address>г.Москва, ул.Литовский, д.22</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A579">
+                <address>г.Москва, ул.Кировоградская, д.13</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A603">
+                <address>г.Москва, ул.Менжинского, д.27</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A617">
+                <address>г.Москва, Ленинградское ш., д.112</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A624">
+                <address>г.Железнодорожный, ул.Советская д.5</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A628">
+                <address>г.Воскресенск, ул.Зелинского, д.7-а</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A634">
+                <address>г.Москва, Зеленый пр-т, д.62</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A637">
+                <address>г.Дмитров, ул.Профессиональная, д.5в</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A640">
+                <address>г.Железнодорожный, ул.Советская д.9</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A642">
+                <address>г.Ивантеевка, ул.Хлебозаводская, д.31/1</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A643">
+                <address>г.Кашира, ул.Садовая д.32</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A644">
+                <address>г.Клин, ул.Карла Маркса д.4</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A646">
+                <address>г.Королев, ул.Космонавтов д.27б</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A647">
+                <address>г.Лобня, Краснополянский проезд д.2</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A648">
+                <address>г.Можайск, ул.Бородинская д.1</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A650">
+                <address>г.Павловский Посад, ул.Кирова, д.5</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A651">
+                <address>г.Пушкино, Советская пл., д.1/7</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A652">
+                <address>г.Пушкино, Пушкинское ш., д.6а</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A653">
+                <address>г.Раменское, ул.Вокзальная, д.4б</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A655">
+                <address>г.Серпухов, Борисовское шоссе, д.17</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A656">
+                <address>г.Солнечногорск, ул.Красная, д.157</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A659">
+                <address>г.Фрязино, ул.Советская д.1в</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A660">
+                <address>г.Чехов, ул.Московская, влд. 96</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A662">
+                <address>г.Электросталь, ул.Ялагина, д.4</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A685">
+                <address>г.Москва, ул.Шереметьевская, вл. 8</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A737">
+                <address>г.Москва, ул.Ярцевская, вл 19</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A742">
+                <address>г.Красногорск, ул.Ленина д.2</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A751">
+                <address>г.Москва, ул.Дубравная, д.34/29</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A764">
+                <address>г.Москва, Головинское ш., д.5 стр 1</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A765">
+                <address>г.Москва, Алтуфьевское шоссе 1 км, вл 3 стр 1</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A803">
+                <address>г.Мытищи, Осташковское шоссе, д.1</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A814">
+                <address>г.Москва, Дмитровское шоссе, д.89</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A818">
+                <address>г.Лыткарино, ул.Парковая стр 2 пом</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A839">
+                <address>г.Москва, ул.Святоозеркая, д.1А</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A844">
+                <address>г.Москва, Щелковское шоссе, д.100 к.1</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A853">
+                <address>г.Одинцово, Можайское ш., д.133а</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A867">
+                <address>г.Щелково, Пролетарский проспект, д.10</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A889">
+                <address>г.Москва, Боровское шоссе, д.6</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A890">
+                <address>г.Москва, Ореховый бульвар, д.14 к.3</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A892">
+                <address>г.Подольск, ул.Большая Серпуховская, д.5</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A894">
+                <address>г.Москва, ш. Варшавское, д.87Б</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A904">
+                <address>г.Москва, ул.Новопетровская, д.6</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A915">
+                <address>г.Домодедово, ул.Каширское ш. д.3а</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A925">
+                <address>г.Пушкино, Красноармейское ш. вл.105</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A931">
+                <address>г.Наро-Фоминск, пл.Свободы д.2к.1</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A933">
+                <address>г.Краснознаменск, ул.Молодежная д.2/1</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A934">
+                <address>г.Москва, 24-й км МКАД вл.1</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A935">
+                <address>г.Красногорск, ул.Международная д.12</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A936">
+                <address>г.Одинцово, Хорошёвский проезд, д.14</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A937">
+                <address>г.Москва, пр-кт Мира д.211</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A951">
+                <address>г.Москва, Котельники, 1-й Покровский пр-з д.5</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A966">
+                <address>г.Мытищи, ул.Мира стр.51</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A975">
+                <address>г.Москва, ул.Краснопрудная вл.13</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A981">
+                <address>г.Бронницы, ул.Льва Толстого д.9</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A984">
+                <address>г.Видное, мкр. Солнечный д.10</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+            <merchant id="A989">
+                <address>г.Балашиха, ш. Энтузиастов вл.11,, стр.4</address>
+                <worktimes>
+                    <worktime day="mon" end-time="21:00" start-time="10:00"/>
+                    <worktime day="tue" end-time="21:00" start-time="10:00"/>
+                    <worktime day="wed" end-time="21:00" start-time="10:00"/>
+                    <worktime day="thu" end-time="21:00" start-time="10:00"/>
+                    <worktime day="fri" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sat" end-time="21:00" start-time="10:00"/>
+                    <worktime day="sun" end-time="21:00" start-time="10:00"/>
+                </worktimes>
+            </merchant>
+        </merchants>
+        <offers>
+            <offer id="71085829">
+                <url>https://www.eldorado.ru/cat/detail/71085829/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.27</weight>
+                <categoryId>848700</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20038622b.jpg</picture>
+                <name>Эпилятор Philips HP6422/01</name>
+                <residues>
+                    <residue amount="7" merchantId="A134" price="1590.0"/>
+                </residues>
+            </offer>
+            <offer id="71377869">
+                <url>https://www.eldorado.ru/cat/detail/71377869/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>11.5</weight>
+                <categoryId>849413</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20036323b.jpg</picture>
+                <name>Микроволновая печь соло Hotpoint-Ariston MWHA 2031 MW2</name>
+                <residues>
+                    <residue amount="105" merchantId="A134" price="12100.0"/>
+                </residues>
+            </offer>
+            <offer id="71126341">
+                <url>https://www.eldorado.ru/cat/detail/71126341/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>4.0</weight>
+                <categoryId>849305</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20031670b.jpg</picture>
+                <name>Настольная газовая плита Flama 1217 White</name>
+                <residues>
+                    <residue amount="4" merchantId="A134" price="17655.0"/>
+                </residues>
+            </offer>
+            <offer id="71086571">
+                <url>https://www.eldorado.ru/cat/detail/71086571/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.74</weight>
+                <categoryId>848875</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20027973b.jpg</picture>
+                <name>Rowenta COMPACT PRO CV4741D0</name>
+                <residues>
+                    <residue amount="7" merchantId="A134" price="16700.0"/>
+                </residues>
+            </offer>
+            <offer id="71277544">
+                <url>https://www.eldorado.ru/cat/detail/71277544/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.85</weight>
+                <categoryId>848660</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20024465b.jpg</picture>
+                <name>Пылесос автомобильный Sinbo SVC 3460</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="14213.0"/>
+                </residues>
+            </offer>
+            <offer id="71242802">
+                <url>https://www.eldorado.ru/cat/detail/71242802/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>63.7</weight>
+                <categoryId>848897</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20032636b.jpg</picture>
+                <name>Стиральная машина Узкая Hotpoint-Ariston RST 601 W</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="17921.0"/>
+                </residues>
+            </offer>
+            <offer id="71113881">
+                <url>https://www.eldorado.ru/cat/detail/71113881/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.65</weight>
+                <categoryId>849740</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20031305b.jpg</picture>
+                <name>Выпрямитель волос Remington S5505</name>
+                <residues>
+                    <residue amount="6" merchantId="A134" price="17530.0"/>
+                </residues>
+            </offer>
+            <offer id="71084479">
+                <url>https://www.eldorado.ru/cat/detail/71084479/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>1.83</weight>
+                <categoryId>848708</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20027173b.jpg</picture>
+                <name>Электробритва Philips RQ1185/21</name>
+                <residues>
+                    <residue amount="999" merchantId="A134" price="16027.0"/>
+                </residues>
+            </offer>
+            <offer id="71067298">
+                <url>https://www.eldorado.ru/cat/detail/71067298/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.29</weight>
+                <categoryId>849398</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20022822b.jpg</picture>
+                <name>Philips QC5125/15</name>
+                <residues>
+                    <residue amount="10" merchantId="A134" price="12809.0"/>
+                </residues>
+            </offer>
+            <offer id="71167369">
+                <url>https://www.eldorado.ru/cat/detail/71167369/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.36</weight>
+                <categoryId>848712</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20034131b.jpg</picture>
+                <name>Philips HX3212/03</name>
+                <residues>
+                    <residue amount="7" merchantId="A134" price="9890.0"/>
+                </residues>
+            </offer>
+            <offer id="71166653">
+                <url>https://www.eldorado.ru/cat/detail/71166653/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.4</weight>
+                <categoryId>848708</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20034133b.jpg</picture>
+                <name>Philips S3120/06</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="9900.0"/>
+                </residues>
+            </offer>
+            <offer id="71085828">
+                <url>https://www.eldorado.ru/cat/detail/71085828/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.27</weight>
+                <categoryId>848700</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20027835b.jpg</picture>
+                <name>Эпилятор Philips HP6420/00</name>
+                <residues>
+                    <residue amount="10" merchantId="A134" price="16589.0"/>
+                </residues>
+            </offer>
+            <offer id="71162926">
+                <url>https://www.eldorado.ru/cat/detail/71162926/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.37</weight>
+                <categoryId>848708</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20033711b.jpg</picture>
+                <name>Электробритва Philips S1310/04</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="18217.0"/>
+                </residues>
+            </offer>
+            <offer id="71162927">
+                <url>https://www.eldorado.ru/cat/detail/71162927/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.37</weight>
+                <categoryId>848708</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20033710b.jpg</picture>
+                <name>Philips S1100/04</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="18216.0"/>
+                </residues>
+            </offer>
+            <offer id="71162925">
+                <url>https://www.eldorado.ru/cat/detail/71162925/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.37</weight>
+                <categoryId>848708</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20033712b.jpg</picture>
+                <name>Электробритва Philips S1510/04</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="18218.0"/>
+                </residues>
+            </offer>
+            <offer id="71143806">
+                <url>https://www.eldorado.ru/cat/detail/71143806/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.62</weight>
+                <categoryId>848730</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20032983b.jpg</picture>
+                <name>Чистящее средство для кофемашины DeLonghi DLSC500</name>
+                <residues>
+                    <residue amount="4" merchantId="A134" price="18031.0"/>
+                </residues>
+            </offer>
+            <offer id="71084918">
+                <url>https://www.eldorado.ru/cat/detail/71084918/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.55</weight>
+                <categoryId>849398</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20030208b.jpg</picture>
+                <name>Машинка для стрижки волос Scarlett SC-1263</name>
+                <residues>
+                    <residue amount="9" merchantId="A134" price="17217.0"/>
+                </residues>
+            </offer>
+            <offer id="71116295">
+                <url>https://www.eldorado.ru/cat/detail/71116295/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.58</weight>
+                <categoryId>848712</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20033150b.jpg</picture>
+                <name>Электрическая зубная щетка Braun Oral-B 500/D16.513.U+D10.51K</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="18089.0"/>
+                </residues>
+            </offer>
+            <offer id="71154186">
+                <url>https://www.eldorado.ru/cat/detail/71154186/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>1.06</weight>
+                <categoryId>849177</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20033267b.jpg</picture>
+                <name>Фотоэпилятор Philips Lumea Advanced SC1995/00</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="18113.0"/>
+                </residues>
+            </offer>
+            <offer id="71084127">
+                <url>https://www.eldorado.ru/cat/detail/71084127/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.11</weight>
+                <categoryId>849525</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20026983b.jpg</picture>
+                <name>Кофе в капсулах Smart Coffee Club Firenze 10 шт</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="15862.0"/>
+                </residues>
+            </offer>
+            <offer id="71101980">
+                <url>https://www.eldorado.ru/cat/detail/71101980/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>13.0</weight>
+                <categoryId>849413</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20030795b.jpg</picture>
+                <name>Микроволновая печь соло Samsung ME83KRS-1</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="17369.0"/>
+                </residues>
+            </offer>
+            <offer id="71050731">
+                <url>https://www.eldorado.ru/cat/detail/71050731/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>3.13</weight>
+                <categoryId>849913</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/11031693b.jpg</picture>
+                <name>Автомобильный усилитель (4 канала) Supra SBD-A4120</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="7780.0"/>
+                </residues>
+            </offer>
+            <offer id="71071472">
+                <url>https://www.eldorado.ru/cat/detail/71071472/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.9</weight>
+                <categoryId>848874</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20027392b.jpg</picture>
+                <name>Braun Satin Hair 5 AS 530 MN</name>
+                <residues>
+                    <residue amount="7" merchantId="A134" price="16217.0"/>
+                </residues>
+            </offer>
+            <offer id="71077896">
+                <url>https://www.eldorado.ru/cat/detail/71077896/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>12.5</weight>
+                <categoryId>849413</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20026845b.jpg</picture>
+                <name>Микроволновая печь соло Samsung ME711KR</name>
+                <residues>
+                    <residue amount="2" merchantId="A264" price="15731.0"/>
+                </residues>
+            </offer>
+            <offer id="71089707">
+                <url>https://www.eldorado.ru/cat/detail/71089707/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>10.86</weight>
+                <categoryId>849888</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20023446b.jpg</picture>
+                <name>Кофемашина DeLonghi ECAM 22.110.SB</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="13372.0"/>
+                </residues>
+            </offer>
+            <offer id="71104468">
+                <url>https://www.eldorado.ru/cat/detail/71104468/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.26</weight>
+                <categoryId>849525</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20029307b.jpg</picture>
+                <name>Кофе в капсулах Nescafe Dolce Gusto Latte Macchiato Caramel 8 шт</name>
+                <residues>
+                    <residue amount="31" merchantId="A134" price="17025.0"/>
+                </residues>
+            </offer>
+            <offer id="71368050">
+                <url>https://www.eldorado.ru/cat/detail/71368050/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.55</weight>
+                <categoryId>849215</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20038265b.jpg</picture>
+                <name>Погружной блендер Goodhelper НВ-311</name>
+                <residues>
+                    <residue amount="4" merchantId="A134" price="490.0"/>
+                </residues>
+            </offer>
+            <offer id="71368104">
+                <url>https://www.eldorado.ru/cat/detail/71368104/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.6</weight>
+                <categoryId>849418</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20038263b.jpg</picture>
+                <name>Goodhelper HM371</name>
+                <residues>
+                    <residue amount="7" merchantId="A134" price="690.0"/>
+                </residues>
+            </offer>
+            <offer id="71364265">
+                <url>https://www.eldorado.ru/cat/detail/71364265/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>11.5</weight>
+                <categoryId>849413</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20030099b.jpg</picture>
+                <name>Микроволновая печь соло Midea C4E MM720C4E-S</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="17186.0"/>
+                </residues>
+            </offer>
+            <offer id="71078014">
+                <url>https://www.eldorado.ru/cat/detail/71078014/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.43</weight>
+                <categoryId>848700</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20024780b.jpg</picture>
+                <name>Braun SilkEpil 3170</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="14468.0"/>
+                </residues>
+            </offer>
+            <offer id="71251160">
+                <url>https://www.eldorado.ru/cat/detail/71251160/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.41</weight>
+                <categoryId>848708</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20038495b.jpg</picture>
+                <name>Philips S5530/06</name>
+                <residues>
+                    <residue amount="4" merchantId="A134" price="7790.0"/>
+                </residues>
+            </offer>
+            <offer id="71085384">
+                <url>https://www.eldorado.ru/cat/detail/71085384/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>14.9</weight>
+                <categoryId>849344</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20029787b.jpg</picture>
+                <name>Пылесос моющий Zelmer ZVC762STRU</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="17113.0"/>
+                </residues>
+            </offer>
+            <offer id="71174893">
+                <url>https://www.eldorado.ru/cat/detail/71174893/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>2.16</weight>
+                <categoryId>849393</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20004269b.jpg</picture>
+                <name>Массажная ванночка для ног VITEK VT-1381 B</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="7813.0"/>
+                </residues>
+            </offer>
+            <offer id="71365937">
+                <url>https://www.eldorado.ru/cat/detail/71365937/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>88.0</weight>
+                <categoryId>848835</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20035898b.jpg</picture>
+                <name>Холодильник с нижней морозильной камерой Haier C2F636CXMV</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="11405.0"/>
+                </residues>
+            </offer>
+            <offer id="71092005">
+                <url>https://www.eldorado.ru/cat/detail/71092005/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>1.03</weight>
+                <categoryId>849524</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20029304b.jpg</picture>
+                <name>Кофе в зернах De Roccis Rossa 1000 г</name>
+                <residues>
+                    <residue amount="4" merchantId="A134" price="17022.0"/>
+                </residues>
+            </offer>
+            <offer id="71083435">
+                <url>https://www.eldorado.ru/cat/detail/71083435/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>1.43</weight>
+                <categoryId>849215</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20026817b.jpg</picture>
+                <name>Погружной блендер Bosch ErgoMixx MSM66150RU</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="15706.0"/>
+                </residues>
+            </offer>
+            <offer id="71218546">
+                <url>https://www.eldorado.ru/cat/detail/71218546/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.76</weight>
+                <categoryId>848874</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20036977b.jpg</picture>
+                <name>Фен-щетка Philips HP8679/00 StyleCare Advanced</name>
+                <residues>
+                    <residue amount="4" merchantId="A134" price="3699.0"/>
+                </residues>
+            </offer>
+            <offer id="71071572">
+                <url>https://www.eldorado.ru/cat/detail/71071572/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.32</weight>
+                <categoryId>848712</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20024881b.jpg</picture>
+                <name>Электрическая зубная щетка Philips Sonicare EasyClean HX6511/02</name>
+                <residues>
+                    <residue amount="4" merchantId="A134" price="14554.0"/>
+                </residues>
+            </offer>
+            <offer id="71131309">
+                <url>https://www.eldorado.ru/cat/detail/71131309/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.41</weight>
+                <categoryId>848708</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20032489b.jpg</picture>
+                <name>Электробритва Philips S5110/06</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="17884.0"/>
+                </residues>
+            </offer>
+            <offer id="71130392">
+                <url>https://www.eldorado.ru/cat/detail/71130392/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.41</weight>
+                <categoryId>848708</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20032485b.jpg</picture>
+                <name>Электробритва Philips S5420/06</name>
+                <residues>
+                    <residue amount="6" merchantId="A134" price="17882.0"/>
+                </residues>
+            </offer>
+            <offer id="71239803">
+                <url>https://www.eldorado.ru/cat/detail/71239803/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>8.4</weight>
+                <categoryId>849097</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20037932b.jpg</picture>
+                <name>Пылесос с контейнером для пыли Samsung SC18M31B0HN</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="8990.0"/>
+                </residues>
+            </offer>
+            <offer id="71239787">
+                <url>https://www.eldorado.ru/cat/detail/71239787/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>8.2</weight>
+                <categoryId>849097</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20037930b.jpg</picture>
+                <name>Пылесос с контейнером для пыли Samsung SC18M3120VU</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="7890.0"/>
+                </residues>
+            </offer>
+            <offer id="71154582">
+                <url>https://www.eldorado.ru/cat/detail/71154582/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.5</weight>
+                <categoryId>848708</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20033571b.jpg</picture>
+                <name>Philips S9041/12</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="18177.0"/>
+                </residues>
+            </offer>
+            <offer id="71229771">
+                <url>https://www.eldorado.ru/cat/detail/71229771/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>13.2</weight>
+                <categoryId>849413</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20037497b.jpg</picture>
+                <name>Samsung MS23K3513AS</name>
+                <residues>
+                    <residue amount="6" merchantId="A134" price="14355.0"/>
+                </residues>
+            </offer>
+            <offer id="71128567">
+                <url>https://www.eldorado.ru/cat/detail/71128567/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>1.58</weight>
+                <categoryId>849528</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20032115b.jpg</picture>
+                <name>Кофеварка капельного типа Philips HD7434/20</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="17777.0"/>
+                </residues>
+            </offer>
+            <offer id="71180455">
+                <url>https://www.eldorado.ru/cat/detail/71180455/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.76</weight>
+                <categoryId>849177</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20035625b.jpg</picture>
+                <name>Philips Lumea Essential BRI863/00</name>
+                <residues>
+                    <residue amount="7" merchantId="A134" price="10960.0"/>
+                </residues>
+            </offer>
+            <offer id="71163684">
+                <url>https://www.eldorado.ru/cat/detail/71163684/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.39</weight>
+                <categoryId>849525</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20035741b.jpg</picture>
+                <name>Tassimo Латте Макиато Классико 8 шт</name>
+                <residues>
+                    <residue amount="10" merchantId="A134" price="11125.0"/>
+                </residues>
+            </offer>
+            <offer id="71162904">
+                <url>https://www.eldorado.ru/cat/detail/71162904/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.03</weight>
+                <categoryId>849301</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20029070b.jpg</picture>
+                <name>Philips HX6014/07</name>
+                <residues>
+                    <residue amount="4" merchantId="A134" price="16978.0"/>
+                </residues>
+            </offer>
+            <offer id="71230507">
+                <url>https://www.eldorado.ru/cat/detail/71230507/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.5</weight>
+                <categoryId>848708</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20037809b.jpg</picture>
+                <name>Braun 3010BT Wet&amp;Dry</name>
+                <residues>
+                    <residue amount="7" merchantId="A134" price="14950.0"/>
+                </residues>
+            </offer>
+            <offer id="71239789">
+                <url>https://www.eldorado.ru/cat/detail/71239789/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>8.2</weight>
+                <categoryId>849097</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20037929b.jpg</picture>
+                <name>Samsung SC18M21C0VR</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="7490.0"/>
+                </residues>
+            </offer>
+            <offer id="71239790">
+                <url>https://www.eldorado.ru/cat/detail/71239790/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>7.8</weight>
+                <categoryId>849097</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20037928b.jpg</picture>
+                <name>Пылесос с контейнером для пыли Samsung SC18M21A0S1</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="6490.0"/>
+                </residues>
+            </offer>
+            <offer id="71239801">
+                <url>https://www.eldorado.ru/cat/detail/71239801/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>8.2</weight>
+                <categoryId>849097</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20037927b.jpg</picture>
+                <name>Пылесос с контейнером для пыли Samsung SC18M2150SG</name>
+                <residues>
+                    <residue amount="4" merchantId="A134" price="7190.0"/>
+                </residues>
+            </offer>
+            <offer id="71072665">
+                <url>https://www.eldorado.ru/cat/detail/71072665/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.72</weight>
+                <categoryId>848875</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20026481b.jpg</picture>
+                <name>Фен Polaris PHD 2038Ti</name>
+                <residues>
+                    <residue amount="5" merchantId="A134" price="15427.0"/>
+                </residues>
+            </offer>
+            <offer id="71166229">
+                <url>https://www.eldorado.ru/cat/detail/71166229/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>2.13</weight>
+                <categoryId>849528</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20033560b.jpg</picture>
+                <name>Кофеварка капельного типа Philips HD7447/00</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="18176.0"/>
+                </residues>
+            </offer>
+            <offer id="71089047">
+                <url>https://www.eldorado.ru/cat/detail/71089047/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>1.48</weight>
+                <categoryId>849362</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20028649b.jpg</picture>
+                <name>Мультистайлер Rowenta Elite Model Look CF4132D0</name>
+                <residues>
+                    <residue amount="9" merchantId="A134" price="16908.0"/>
+                </residues>
+            </offer>
+            <offer id="71186764">
+                <url>https://www.eldorado.ru/cat/detail/71186764/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.33</weight>
+                <categoryId>848881</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20036156b.jpg</picture>
+                <name>Rowenta TN3650F0</name>
+                <residues>
+                    <residue amount="11" merchantId="A134" price="11725.0"/>
+                </residues>
+            </offer>
+            <offer id="71075304">
+                <url>https://www.eldorado.ru/cat/detail/71075304/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.19</weight>
+                <categoryId>849525</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20037484b.jpg</picture>
+                <name>Nescafe Dolce Gusto Cortado 16 шт</name>
+                <residues>
+                    <residue amount="25" merchantId="A134" price="14310.0"/>
+                </residues>
+            </offer>
+            <offer id="71365935">
+                <url>https://www.eldorado.ru/cat/detail/71365935/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>94.0</weight>
+                <categoryId>848835</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20036154b.jpg</picture>
+                <name>Холодильник с нижней морозильной камерой Haier C2F637CFMV</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="11715.0"/>
+                </residues>
+            </offer>
+            <offer id="71121051">
+                <url>https://www.eldorado.ru/cat/detail/71121051/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.56</weight>
+                <categoryId>848875</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20039782b.jpg</picture>
+                <name>VITEK VT-2316</name>
+                <residues>
+                    <residue amount="8" merchantId="A134" price="1099.0"/>
+                </residues>
+            </offer>
+            <offer id="71086412">
+                <url>https://www.eldorado.ru/cat/detail/71086412/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.87</weight>
+                <categoryId>848875</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20027687b.jpg</picture>
+                <name>Rowenta COMPACT PRO CV4731D0</name>
+                <residues>
+                    <residue amount="4" merchantId="A134" price="16472.0"/>
+                </residues>
+            </offer>
+            <offer id="71125706">
+                <url>https://www.eldorado.ru/cat/detail/71125706/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.4</weight>
+                <categoryId>848881</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20032109b.jpg</picture>
+                <name>Триммер Rowenta Nomad TN2310F0 </name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="17772.0"/>
+                </residues>
+            </offer>
+            <offer id="71088487">
+                <url>https://www.eldorado.ru/cat/detail/71088487/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>5.98</weight>
+                <categoryId>848688</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20028515b.jpg</picture>
+                <name>Электромясорубка Bosch ProPower MFW66020</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="16882.0"/>
+                </residues>
+            </offer>
+            <offer id="71365250">
+                <url>https://www.eldorado.ru/cat/detail/71365250/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>13.2</weight>
+                <categoryId>849411</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20033430b.jpg</picture>
+                <name>Микроволновая печь с грилем Midea Retro MG820CJ7-B2</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="18143.0"/>
+                </residues>
+            </offer>
+            <offer id="71367673">
+                <url>https://www.eldorado.ru/cat/detail/71367673/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>63.0</weight>
+                <categoryId>848897</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20038684b.jpg</picture>
+                <name>Стиральная машина Узкая Haier HW60-BP12758</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="30990.0"/>
+                </residues>
+            </offer>
+            <offer id="71368043">
+                <url>https://www.eldorado.ru/cat/detail/71368043/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>63.0</weight>
+                <categoryId>848897</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20038682b.jpg</picture>
+                <name>Haier HW60-12636AS</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="26990.0"/>
+                </residues>
+            </offer>
+            <offer id="71368044">
+                <url>https://www.eldorado.ru/cat/detail/71368044/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>62.0</weight>
+                <categoryId>848897</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20038681b.jpg</picture>
+                <name>Подменное наименование для группы Стиральная машина Узкая Haier HW60-10636A</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="25990.0"/>
+                </residues>
+            </offer>
+            <offer id="71096110">
+                <url>https://www.eldorado.ru/cat/detail/71096110/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.96</weight>
+                <categoryId>848874</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20038560b.jpg</picture>
+                <name>Фен-щетка</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="3899.0"/>
+                </residues>
+            </offer>
+            <offer id="71245713">
+                <url>https://www.eldorado.ru/cat/detail/71245713/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>5.35</weight>
+                <categoryId>849275</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20036258b.jpg</picture>
+                <name>Braun 12830001 IS3022WH</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="11930.0"/>
+                </residues>
+            </offer>
+            <offer id="71365249">
+                <url>https://www.eldorado.ru/cat/detail/71365249/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>13.2</weight>
+                <categoryId>849411</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20033429b.jpg</picture>
+                <name>Микроволновая печь с грилем Midea Retro MG820CJ7-I2</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="18142.0"/>
+                </residues>
+            </offer>
+            <offer id="71105301">
+                <url>https://www.eldorado.ru/cat/detail/71105301/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>49.0</weight>
+                <categoryId>849480</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20028988b.jpg</picture>
+                <name>Стиральная машина Компактная Candy AQUA 2D1140-07</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="16962.0"/>
+                </residues>
+            </offer>
+            <offer id="71345929">
+                <url>https://www.eldorado.ru/cat/detail/71345929/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>60.4</weight>
+                <categoryId>848835</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20039764b.jpg</picture>
+                <name>Холодильник с нижней морозильной камерой Beko RCSK 335M20 W</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="21990.0"/>
+                </residues>
+            </offer>
+            <offer id="71055631">
+                <url>https://www.eldorado.ru/cat/detail/71055631/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>1.58</weight>
+                <categoryId>848874</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20024708b.jpg</picture>
+                <name>Фен-щетка Babyliss 2735E</name>
+                <residues>
+                    <residue amount="4" merchantId="A134" price="14402.0"/>
+                </residues>
+            </offer>
+            <offer id="71122663">
+                <url>https://www.eldorado.ru/cat/detail/71122663/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>36.0</weight>
+                <categoryId>849738</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20031598b.jpg</picture>
+                <name>Bosch Serie | 6 HBG43T350R</name>
+                <residues>
+                    <residue amount="2" merchantId="A264" price="17623.0"/>
+                </residues>
+            </offer>
+            <offer id="71083085">
+                <url>https://www.eldorado.ru/cat/detail/71083085/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>66.0</weight>
+                <categoryId>848897</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20026570b.jpg</picture>
+                <name>_ЦФ8МП Siemens WS10G140OE</name>
+                <residues>
+                    <residue amount="4" merchantId="A264" price="15508.0"/>
+                </residues>
+            </offer>
+            <offer id="71083086">
+                <url>https://www.eldorado.ru/cat/detail/71083086/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>66.0</weight>
+                <categoryId>848897</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20026572b.jpg</picture>
+                <name>Стиральная машина Узкая Siemens WS10G240OE</name>
+                <residues>
+                    <residue amount="1076" merchantId="A134" price="15510.0"/>
+                </residues>
+            </offer>
+            <offer id="71077422">
+                <url>https://www.eldorado.ru/cat/detail/71077422/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>1.5</weight>
+                <categoryId>848717</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20031910b.jpg</picture>
+                <name>Электрочайник Braun WK 300 Cream</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="17708.0"/>
+                </residues>
+            </offer>
+            <offer id="71090414">
+                <url>https://www.eldorado.ru/cat/detail/71090414/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>2.0</weight>
+                <categoryId>849215</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20028613b.jpg</picture>
+                <name>Погружной блендер Bosch ErgoMixx MSM66155</name>
+                <residues>
+                    <residue amount="5" merchantId="A134" price="16904.0"/>
+                </residues>
+            </offer>
+            <offer id="71082927">
+                <url>https://www.eldorado.ru/cat/detail/71082927/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>67.0</weight>
+                <categoryId>848897</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20026559b.jpg</picture>
+                <name>_ЦФ8МП Bosch Serie | 2 WLG20060OE</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="15499.0"/>
+                </residues>
+            </offer>
+            <offer id="71082503">
+                <url>https://www.eldorado.ru/cat/detail/71082503/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>1.01</weight>
+                <categoryId>849362</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20028738b.jpg</picture>
+                <name>Мультистайлер Remington S8670</name>
+                <residues>
+                    <residue amount="4" merchantId="A134" price="16920.0"/>
+                </residues>
+            </offer>
+            <offer id="71091431">
+                <url>https://www.eldorado.ru/cat/detail/71091431/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.4</weight>
+                <categoryId>849398</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20029398b.jpg</picture>
+                <name>Машинка для стрижки волос Philips HC5450/15</name>
+                <residues>
+                    <residue amount="5" merchantId="A134" price="17041.0"/>
+                </residues>
+            </offer>
+            <offer id="71091430">
+                <url>https://www.eldorado.ru/cat/detail/71091430/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.4</weight>
+                <categoryId>849398</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20029397b.jpg</picture>
+                <name>Машинка для стрижки волос Philips HC5440/15</name>
+                <residues>
+                    <residue amount="7" merchantId="A134" price="17040.0"/>
+                </residues>
+            </offer>
+            <offer id="71076404">
+                <url>https://www.eldorado.ru/cat/detail/71076404/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>6.4</weight>
+                <categoryId>849098</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20038659b.jpg</picture>
+                <name>Пылесос с пылесборником Samsung SC5251</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="4990.0"/>
+                </residues>
+            </offer>
+            <offer id="71228394">
+                <url>https://www.eldorado.ru/cat/detail/71228394/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>14.4</weight>
+                <categoryId>849411</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20037556b.jpg</picture>
+                <name>Samsung MG23K3513AS</name>
+                <residues>
+                    <residue amount="4" merchantId="A134" price="14440.0"/>
+                </residues>
+            </offer>
+            <offer id="71163685">
+                <url>https://www.eldorado.ru/cat/detail/71163685/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.39</weight>
+                <categoryId>849525</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20035499b.jpg</picture>
+                <name>Tassimo Латте Макиато Карамель 8 шт</name>
+                <residues>
+                    <residue amount="11" merchantId="A134" price="10940.0"/>
+                </residues>
+            </offer>
+            <offer id="71113932">
+                <url>https://www.eldorado.ru/cat/detail/71113932/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.86</weight>
+                <categoryId>848700</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20030004b.jpg</picture>
+                <name>Эпилятор2 Braun 5-329</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="17162.0"/>
+                </residues>
+            </offer>
+            <offer id="71228395">
+                <url>https://www.eldorado.ru/cat/detail/71228395/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>14.4</weight>
+                <categoryId>849411</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20037557b.jpg</picture>
+                <name>Samsung MG23K3513AK</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="14445.0"/>
+                </residues>
+            </offer>
+            <offer id="71211921">
+                <url>https://www.eldorado.ru/cat/detail/71211921/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.09</weight>
+                <categoryId>849628</categoryId>
+                <description>Игра VR Battlezone предназначена для PlayStation VR и обеспечивает высокий уровень
+                    погружения в виртуальную реальность.&lt;br>&lt;br>УНИКАЛЬНЫЕ СХВАТКИ&lt;br>Геймерам предлагается
+                    принять участие в сражениях на Земле будущего, уничтожать танки, турели и другую технику противника.
+                    Каждый бой не будет похож на предыдущий благодаря использованию процедурно-генерируемых карт и
+                    случайных задач.&lt;br>&lt;br>ПОЛНЫЙ КОНТРОЛЬ&lt;br>Благодаря уникальному ощущению полного
+                    погружения в игровой мир геймер получит возможность отслеживать все тактические манёвры, быстро
+                    осматривать поле боя и небо, оценивать угрозы и поступать в соответствии с боевой ситуацией.&lt;br>&lt;br>БОЛЬШЕ
+                    ОРУЖИЯ И ТЕХНИКИ&lt;br>В игре предусмотрен большой выбор разрушительного оружия и мощной техники.
+                    Это поможет геймеру проложить путь в победе как в однопользовательском режиме, так и в сетевой игре.&lt;br>
+                </description>
+                <picture>https://img.mvideo.ru/Pdb/40065344b.jpg</picture>
+                <name>Видеоигра для PS4 . Battlezone (только для VR)</name>
+                <residues>
+                    <residue amount="1000" merchantId="A264" price="2299.0"/>
+                </residues>
+            </offer>
+            <offer id="71150303">
+                <url>https://www.eldorado.ru/cat/detail/71150303/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.8</weight>
+                <categoryId>848875</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20037797b.jpg</picture>
+                <name>Фен Remington D3080   </name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="2854.98"/>
+                </residues>
+            </offer>
+            <offer id="71228393">
+                <url>https://www.eldorado.ru/cat/detail/71228393/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>15.0</weight>
+                <categoryId>849411</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20037554b.jpg</picture>
+                <name>Samsung MG23K3573AK</name>
+                <residues>
+                    <residue amount="5" merchantId="A134" price="14430.0"/>
+                </residues>
+            </offer>
+            <offer id="71104465">
+                <url>https://www.eldorado.ru/cat/detail/71104465/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.25</weight>
+                <categoryId>849525</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20029802b.jpg</picture>
+                <name>Кофе в капсулах Nescafe Dolce Gusto Американо 16 шт</name>
+                <residues>
+                    <residue amount="31" merchantId="A134" price="17118.0"/>
+                </residues>
+            </offer>
+            <offer id="71172836">
+                <url>https://www.eldorado.ru/cat/detail/71172836/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.52</weight>
+                <categoryId>848700</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20035132b.jpg</picture>
+                <name>Philips BRE640/00</name>
+                <residues>
+                    <residue amount="4" merchantId="A134" price="10520.0"/>
+                </residues>
+            </offer>
+            <offer id="71227433">
+                <url>https://www.eldorado.ru/cat/detail/71227433/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.38</weight>
+                <categoryId>848881</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20037671b.jpg</picture>
+                <name>Триммер Philips OneBlade Pro QP6520/20</name>
+                <residues>
+                    <residue amount="4" merchantId="A134" price="14615.0"/>
+                </residues>
+            </offer>
+            <offer id="71105437">
+                <url>https://www.eldorado.ru/cat/detail/71105437/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.04</weight>
+                <categoryId>849301</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20028959b.jpg</picture>
+                <name>Philips HX6012/07</name>
+                <residues>
+                    <residue amount="9" merchantId="A134" price="16956.0"/>
+                </residues>
+            </offer>
+            <offer id="71227434">
+                <url>https://www.eldorado.ru/cat/detail/71227434/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.31</weight>
+                <categoryId>848881</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20037670b.jpg</picture>
+                <name>Триммер Philips OneBlade Pro QP6510/20</name>
+                <residues>
+                    <residue amount="6" merchantId="A134" price="14610.0"/>
+                </residues>
+            </offer>
+            <offer id="71110000">
+                <url>https://www.eldorado.ru/cat/detail/71110000/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.86</weight>
+                <categoryId>848717</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20030596b.jpg</picture>
+                <name>Tefal Travel KO120130</name>
+                <residues>
+                    <residue amount="6" merchantId="A134" price="17315.0"/>
+                </residues>
+            </offer>
+            <offer id="71139715">
+                <url>https://www.eldorado.ru/cat/detail/71139715/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.43</weight>
+                <categoryId>849398</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20032655b.jpg</picture>
+                <name>Машинка для стрижки волос Rowenta Nomad TN1410F0</name>
+                <residues>
+                    <residue amount="4" merchantId="A134" price="17926.0"/>
+                </residues>
+            </offer>
+            <offer id="71359541">
+                <url>https://www.eldorado.ru/cat/detail/71359541/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.69</weight>
+                <categoryId>848874</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20039728b.jpg</picture>
+                <name>Фен-щетка Rowenta Brush Activ Compact CF9110F0</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="3399.0"/>
+                </residues>
+            </offer>
+            <offer id="71227432">
+                <url>https://www.eldorado.ru/cat/detail/71227432/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.02</weight>
+                <categoryId>849974</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20037668b.jpg</picture>
+                <name>Сменное лезвие Philips OneBlade QP210/50</name>
+                <residues>
+                    <residue amount="5" merchantId="A134" price="14600.0"/>
+                </residues>
+            </offer>
+            <offer id="71177679">
+                <url>https://www.eldorado.ru/cat/detail/71177679/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.35</weight>
+                <categoryId>848712</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20032772b.jpg</picture>
+                <name>Электрическая зубная щетка Philips HX6231/01</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="17965.0"/>
+                </residues>
+            </offer>
+            <offer id="71123650">
+                <url>https://www.eldorado.ru/cat/detail/71123650/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>1.48</weight>
+                <categoryId>848717</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20032410b.jpg</picture>
+                <name>Электрочайник VITEK VT-7009 TR</name>
+                <residues>
+                    <residue amount="13" merchantId="A134" price="17853.0"/>
+                </residues>
+            </offer>
+            <offer id="71084674">
+                <url>https://www.eldorado.ru/cat/detail/71084674/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>1.63</weight>
+                <categoryId>848717</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20027193b.jpg</picture>
+                <name>Электрочайник Tefal Silver Ion BF925132</name>
+                <residues>
+                    <residue amount="4" merchantId="A134" price="16046.0"/>
+                </residues>
+            </offer>
+            <offer id="71129842">
+                <url>https://www.eldorado.ru/cat/detail/71129842/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>12.42</weight>
+                <categoryId>849524</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20038196b.jpg</picture>
+                <name>Кофе в зернах DeLonghi ECAM 22.360.B</name>
+                <residues>
+                    <residue amount="2" merchantId="A134" price="38790.0"/>
+                </residues>
+            </offer>
+            <offer id="71071299">
+                <url>https://www.eldorado.ru/cat/detail/71071299/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.57</weight>
+                <categoryId>848699</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20022965b.jpg</picture>
+                <name>Remington Ci95</name>
+                <residues>
+                    <residue amount="5" merchantId="A134" price="12932.0"/>
+                </residues>
+            </offer>
+            <offer id="71128345">
+                <url>https://www.eldorado.ru/cat/detail/71128345/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.16</weight>
+                <categoryId>848881</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20032770b.jpg</picture>
+                <name>Philips NT3160/10</name>
+                <residues>
+                    <residue amount="7" merchantId="A134" price="17964.0"/>
+                </residues>
+            </offer>
+            <offer id="71099647">
+                <url>https://www.eldorado.ru/cat/detail/71099647/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>6.4</weight>
+                <categoryId>849098</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20031681b.jpg</picture>
+                <name>Samsung SC5241</name>
+                <residues>
+                    <residue amount="3" merchantId="A134" price="6600.0"/>
+                </residues>
+            </offer>
+            <offer id="71228446">
+                <url>https://www.eldorado.ru/cat/detail/71228446/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.36</weight>
+                <categoryId>848881</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20037538b.jpg</picture>
+                <name>Триммер Braun MGK3020</name>
+                <residues>
+                    <residue amount="10" merchantId="A134" price="14410.0"/>
+                </residues>
+            </offer>
+            <offer id="71364263">
+                <url>https://www.eldorado.ru/cat/detail/71364263/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>11.5</weight>
+                <categoryId>849413</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20030105b.jpg</picture>
+                <name>Микроволновая печь соло Midea C4E AM720C4E-W</name>
+                <residues>
+                    <residue amount="6" merchantId="A134" price="17191.0"/>
+                </residues>
+            </offer>
+            <offer id="71365246">
+                <url>https://www.eldorado.ru/cat/detail/71365246/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>12.3</weight>
+                <categoryId>849411</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20030103b.jpg</picture>
+                <name>Микроволновая печь с грилем Midea C4E AG720C4E-W</name>
+                <residues>
+                    <residue amount="6" merchantId="A134" price="17189.0"/>
+                </residues>
+            </offer>
+            <offer id="71242847">
+                <url>https://www.eldorado.ru/cat/detail/71242847/</url>
+                <currencyId>RUB</currencyId>
+                <unitId>pc</unitId>
+                <weight>0.02</weight>
+                <categoryId>849047</categoryId>
+                <picture>https://img.mvideo.ru/Pdb/20033619b.jpg</picture>
+                <name>Braun Series 3 32B MicroComb</name>
+                <residues>
+                    <residue amount="5" merchantId="A134" price="18198.0"/>
+                </residues>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
